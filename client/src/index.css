@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Rock+Salt&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (prefers-color-scheme: dark) {
+    body{
+        background-color: #23395d;
+    }
+  }
